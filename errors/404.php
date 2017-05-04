@@ -1,3 +1,3 @@
 <?php
-echo "<script>window.location = 'http://vijju.xyz'</script>";
+echo "<script>window.location = 'https://vijjusri14.github.io/aboutme'</script>";
 ?>
