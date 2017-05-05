@@ -15,10 +15,17 @@
             "src": "assets/icons/launcher-icon-4x.png",
             "type": "image/png",
             "sizes": "192x192"
+        },
+        {
+            "src": "assets/icons/splash-icon.png",
+            "type": "image/png",
+            "sizes": "144x144"
         }
     ],
     "theme_color": "#171F26",
     "background_color": "#669999",
     "display": "standalone",
-    "start_url": "/"
+    "Scope": "/aboutme",
+    "start_url": "/aboutme",
+    "splash_pages": null
 }
