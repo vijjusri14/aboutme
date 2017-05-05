@@ -1,7 +1,7 @@
 {
   "name": "Vijay Bhaskar",
   "short_name": "Vijay Bhaskar",
-  "start_url": "/",
+  "start_url": "index.html",
   "background_color": "#669999",
   "display": "standalone",
   "theme_color": "#171F26"
